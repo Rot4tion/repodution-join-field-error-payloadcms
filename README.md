@@ -4,5 +4,5 @@ blank
 
 ## Attributes
 
-- **Database**: mongodb
-- **Storage Adapter**: localDisk
+- **Database**: postgre
+- **Storage Adapter**: subabase
